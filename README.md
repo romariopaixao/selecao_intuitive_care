@@ -2,15 +2,15 @@
 
 ## Descrição
 
-Este script Python Baixa automaticamente os Anexos I e II do Rol de Procedimentos da ANS (Agência Nacional de Saúde Suplementar) e os compacta em um único arquivo ZIP.
+O script app.py Baixa automaticamente os Anexos I e II do Rol de Procedimentos da ANS (Agência Nacional de Saúde Suplementar) e os compacta em um único arquivo ZIP.
 
 ## Funcionalidades
-
-- Extrai automaticamente os links mais recentes dos anexos do site oficial da ANS
-- Baixa os arquivos PDF dos Anexos I e II
-- Organiza os downloads em uma pasta específica
-- Compacta os PDFs em um único arquivo ZIP com data e hora
-- Fornece feedback detalhado durante todo o processo
+1. app.py
+  - Extrai automaticamente os links mais recentes dos anexos do site oficial da ANS
+  - Baixa os arquivos PDF dos Anexos I e II
+  - Organiza os downloads em uma pasta específica
+  - Compacta os PDFs em um único arquivo ZIP com data e hora
+  - Fornece feedback detalhado durante todo o processo
 
 ## Pré-requisitos
 
